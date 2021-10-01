@@ -36,11 +36,10 @@ title: 高空舰队中文手册
 - Publisher: <https://www.microprose.com/games/highfleet>
 - Discord: <https://discord.com/invite/xyWqGak>
 - Twitter: <https://twitter.com/micro_prose>
-- 中文手册译者: Abtd
 
 ## 键位表
 
-### 地图界面
+### 地图界面键位
 
 - `Esc` - 暂停菜单（退出/载入存盘点）
 - `鼠标滚轮` - 放大/缩小
@@ -48,7 +47,7 @@ title: 高空舰队中文手册
 - `Shift` - 时间加速
 - `空格` - 暂停/继续
 
-### 着陆
+### 着陆键位
 
 - `Esc` - 暂停菜单（重试/退出/载入存盘点）
 - `Shift` - 激活加力
@@ -56,7 +55,7 @@ title: 高空舰队中文手册
 - `W` - 向上推进
 - `A` / `D` - 向左/右平移飞行器
 
-### 战斗
+### 战斗键位
 
 - `Esc` - 暂停菜单（重试/退出/载入存盘点）
 - `Q` / `E` - 逆时针/顺时针旋转飞行器
@@ -178,7 +177,6 @@ title: 高空舰队中文手册
 - 航母
 - 导弹载舰
 - 核导弹载舰
-
 
 注意您的舰队*必须*包含一艘旗舰，例如[塞瓦斯托波尔][Sevastopol]号。
 
